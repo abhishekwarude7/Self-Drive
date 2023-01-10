@@ -1,0 +1,37 @@
+body{
+    background-color: aqua;
+}
+.border{
+    background-color: tan;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 400px;
+    height: 780px;
+}
+.tacbox {
+    display:block;
+    padding: 1em;
+    margin: 2em;
+    border: 3px solid #ddd;
+    background-color: #eee;
+    max-width: 800px;
+  }
+  
+  .tacbox input {
+    height: 2em;
+    width: 2em;
+    vertical-align: middle;
+  }
+  #form{
+    font-size: 16px;
+  }
+  .buttn{
+    border: 1px solid white;
+    border-radius: 50px;
+    font-size: 16px;
+    width: 100px;
+  }
+  .buttn:hover{
+    background: var(--second-color);
+  }
+ 
